@@ -13,7 +13,7 @@ pastikan anda telah mendownload python di komputer anda
 
 lalu download file ZIP repositori ini
 
-[Download Zip File](https://github.com/permadidevelopersofficial/MyWifiPassword/archive/refs/heads/main.zip)
+[Download Zip File](https://github.com/withfabian/mywifi/)
 
 setelah anda download file ZIP tersebut kalian ekstrak lalu buka folder, pilih file mywifipassword.py | kalian klik kanan pada file tersebut dan pilih Open With > lalu pilih python
 
