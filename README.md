@@ -21,6 +21,7 @@ dan script akan berjalan lalu kalian dapat melihat password wifi yang terhubung 
 
 ## Penting !! 
 Jika Anda belum menginstall python silahkan download terlebih dahulu python nya di Microsoft Store Atau unduh lewat situs resmi python.
+Tidak dapat di uji Di Codespace
 
 
 ## License
